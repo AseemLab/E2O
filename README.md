@@ -59,9 +59,24 @@ The original project report is structured as follows:
 *   **Chapter 7: Future of E2O:** Advantages, disadvantages, and potential applications.
 *   **Chapter 8: Conclusion:** Summary of the project.
 
+## Advantages
+
+* Revolutionaries the Foodware by eliminating the inefficiencies of thermal insulated utensils currently present in the market.
+* Internal heat generation and manipulation achieves the desired results without using bulky refrigeration system and high power consuming induction coils.
+* App controlled IOT infrastructure enables to monitor and control over various settings of the product.
+* Provides preferred food/drug temperature to the user at anytime and anywhere unlike the conventional storage which relies on thermal insulation.
+* Accessibility and portability enables to carry it anywhere on the go.
+
+## Application
+
+* This product will monopolise and dominate the market due to its distinctive
+* technology to acquire temperature modulation in storage container(Tiffin, Bottles, Electric Tiffin using induction coils)
+* The modern alternative for the portable food/drug storage utensils.
+* The internal heat generation and manipulation enables it use anytime without much heat loss to the environment.
+
 2.  **Explore the Project Report (PDF):** The `Project-Report-E2O.pdf` file contains the original project details, including the design, calculations, and proposed implementation.
 
-4.  **Contribute!**  See the Contributing section below.
+3.  **Contribute!**  See the Contributing section below.
 
 ## 🤝 Contributing
 
