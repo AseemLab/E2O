@@ -13,6 +13,8 @@ Welcome to the Smart & Portable Thermoelectric Foodware (E2O) project! 🚀 This
 
 This project was initially developed as a Bachelor of Technology project in Mechanical Engineering, aiming to tackle the inefficiencies of traditional food storage and reduce food wastage. We hope to inspire further development and exploration in sustainable and efficient food storage solutions.
 
+![image](https://github.com/user-attachments/assets/84aea47c-7fff-49a4-871f-4360c00b5c4f)
+
 ## ✨ Key Features
 
 *   **Thermoelectric Heating & Cooling:** Utilizes the Peltier effect for efficient temperature control. 🔥🧊
@@ -20,6 +22,8 @@ This project was initially developed as a Bachelor of Technology project in Mech
 *   **App-Controlled (Future Development):** Envisioned with mobile app integration for temperature adjustment and notifications. 📱 *(Note: App integration is a future development goal.)*
 *   **Environmentally Conscious:** Reduces reliance on traditional refrigeration methods that use harmful refrigerants. 🌍
 *   **Stylish Design:** Features a temperature-indicating logo (red for hot, blue for cold). (Future consideration)
+
+![image](https://github.com/user-attachments/assets/f26b5fbb-2860-4055-9cd4-cd64810b5fe1)
 
 ## 🛠️ Technologies Used
 
@@ -33,6 +37,13 @@ This project was initially developed as a Bachelor of Technology project in Mech
 *   **Software (Potential):**
     *   **SolidWorks:** For CAD modeling and simulations.
     *   **Python:** For data analysis and algorithm development.
+ 
+![image](https://github.com/user-attachments/assets/f0852640-dcb1-440f-b5a1-55f82ed09805)
+
+
+![image](https://github.com/user-attachments/assets/d802c0a4-dc00-42eb-8057-73ad4b917ca3)
+
+
 
 ## ⚙️ Project Structure (Based on the Report)
 
