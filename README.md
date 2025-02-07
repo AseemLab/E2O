@@ -46,7 +46,7 @@ This project was initially developed as a Bachelor of Technology project in Mech
 
 
 
-## ⚙️ Project Structure (Based on the Report)
+## ⚙️ Project Structure
 
 The original project report is structured as follows:
 
