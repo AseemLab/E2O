@@ -28,10 +28,11 @@ This project was initially developed as a Bachelor of Technology project in Mech
 ## 🛠️ Technologies Used
 
 *   **Thermoelectric Cooler (TEC/Peltier Module):** The heart of the heating/cooling system.
-*   **Arduino (Potential):** For embedded control and sensor integration in future iterations.
-*   **Sensors (Potential):** MPU6050 gyroscope, LSM303DLHC compass for advanced control (future).
+*   **Peltier Model TEC1-12706**
+*   **TEC1089E-SV is used as the circuit driving IC**
+*   **Sensors :** Thermocouple
 *   **Heat Sink & Fan:**  For efficient heat dissipation. 🌬️
-*   **LiFePO4 or NMC Battery (Potential):** For portable power. 🔋
+*   **Lithium Battery:** For portable power. 🔋
 *   **3D Printing (Potential):** For creating custom components and enclosures.
 *   **IoT Technology (Future):**  For smart control and connectivity.
 *   **Software (Potential):**
@@ -59,11 +60,6 @@ The original project report is structured as follows:
 *   **Chapter 8: Conclusion:** Summary of the project.
 
 2.  **Explore the Project Report (PDF):** The `Project-Report-E2O.pdf` file contains the original project details, including the design, calculations, and proposed implementation.
-
-3.  **Set up your development environment (if contributing):**
-
-    *   Install necessary software (e.g., Arduino IDE, Python, SolidWorks).
-    *   Consider creating a virtual environment (Python).
 
 4.  **Contribute!**  See the Contributing section below.
 
@@ -93,8 +89,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## 🙏 Acknowledgments
 
 *   Dr. Vijay Kumar for his supervision and guidance.
-*   Aseem Saxena their initial work on this project.
-*   The open-source community for providing valuable resources and inspiration.
+*   Aseem Saxena is the sole proprietary owner for the concept and the prototype.
 
 ## ✉️ Contact
 
