@@ -1,13 +1,13 @@
 # E2O
 Bachelors in Mechanical Engineering, Final year project
 
-# 🌡️ Smart & Portable Thermoelectric Foodware (E2O) 🍎🧊
+# Thermoelectric Foodware (E2O)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 👋 Introduction
+## Introduction
 
 Welcome to the Smart & Portable Thermoelectric Foodware (E2O) project! 🚀 This project explores the design and development of an innovative food container that utilizes the Peltier effect to provide both heating and cooling capabilities, ensuring your food and beverages are always at the perfect temperature. Imagine having a cup that keeps your coffee hot ☕ on a cold day or your smoothie refreshingly cool 🍹 during a workout.  That's the vision behind E2O!
 
@@ -15,24 +15,24 @@ This project was initially developed as a Bachelor of Technology project in Mech
 
 ![image](https://github.com/user-attachments/assets/84aea47c-7fff-49a4-871f-4360c00b5c4f)
 
-## ✨ Key Features
+##  Key Features
 
-*   **Thermoelectric Heating & Cooling:** Utilizes the Peltier effect for efficient temperature control. 🔥🧊
-*   **Portable & Lightweight:** Designed for on-the-go use – perfect for the gym, college, or park! 🎒
-*   **App-Controlled (Future Development):** Envisioned with mobile app integration for temperature adjustment and notifications. 📱 *(Note: App integration is a future development goal.)*
-*   **Environmentally Conscious:** Reduces reliance on traditional refrigeration methods that use harmful refrigerants. 🌍
+*   **Thermoelectric Heating & Cooling:** Utilizes the Peltier effect for efficient temperature control.
+*   **Portable & Lightweight:** Designed for on-the-go use – perfect for the gym, college, or office.
+*   **App-Controlled (Future Development):** Envisioned with mobile app integration for temperature adjustment and notifications.  *(Note: App integration is a future development goal.)*
+*   **Environmentally Conscious:** Reduces reliance on traditional refrigeration methods that use harmful refrigerants.
 *   **Stylish Design:** Features a temperature-indicating logo (red for hot, blue for cold). (Future consideration)
 
 ![image](https://github.com/user-attachments/assets/f26b5fbb-2860-4055-9cd4-cd64810b5fe1)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 *   **Thermoelectric Cooler (TEC/Peltier Module):** The heart of the heating/cooling system.
 *   **Peltier Model TEC1-12706**
 *   **TEC1089E-SV is used as the circuit driving IC**
 *   **Sensors :** Thermocouple
-*   **Heat Sink & Fan:**  For efficient heat dissipation. 🌬️
-*   **Lithium Battery:** For portable power. 🔋
+*   **Heat Sink & Fan:**  For efficient heat dissipation. 
+*   **Lithium Battery:** For portable power.
 *   **3D Printing (Potential):** For creating custom components and enclosures.
 *   **IoT Technology (Future):**  For smart control and connectivity.
 *   **Software (Potential):**
@@ -46,7 +46,7 @@ This project was initially developed as a Bachelor of Technology project in Mech
 
 
 
-## ⚙️ Project Structure
+## Project Structure
 
 The original project report is structured as follows:
 
@@ -78,17 +78,17 @@ The original project report is structured as follows:
 
 3.  **Contribute!**  See the Contributing section below.
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to the E2O project! Here are some ways you can help:
 
-*   **Implement the App Control:** Develop a mobile app to control the temperature of the foodware. 📱
-*   **Build a Working Prototype:** Create a functional prototype based on the project report. 🛠️
-*   **Improve the Design:** Enhance the design for better efficiency, portability, and aesthetics. 🎨
-*   **Develop the Embedded System:** Implement the control system using Arduino or a similar platform. 🤖
-*   **Conduct Further Research:** Explore advanced thermoelectric materials and techniques. 🔬
-*   **Improve Documentation:**  Help make this README even better! 📝
-*   **Bug reports:** If you find any issues, please report them! 🐛
+*   **Implement the App Control:** Develop a mobile app to control the temperature of the foodware. 
+*   **Build a Working Prototype:** Create a functional prototype based on the project report.
+*   **Improve the Design:** Enhance the design for better efficiency, portability, and aesthetics. 
+*   **Develop the Embedded System:** Implement the control system using Arduino or a similar platform.
+*   **Conduct Further Research:** Explore advanced thermoelectric materials and techniques.
+*   **Improve Documentation:**  Help make this README even better.
+*   **Bug reports:** If you find any issues, please report them.
 
 Please follow these steps to contribute:
 
@@ -97,17 +97,17 @@ Please follow these steps to contribute:
 3.  Make your changes and commit them with descriptive messages.
 4.  Submit a pull request.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 *   Dr. Vijay Kumar for his supervision and guidance.
 *   Aseem Saxena is the sole proprietary owner for the concept and the prototype.
 
-## ✉️ Contact
+## Contact
 
-If you have any questions or suggestions, feel free to contact !
+If you have any questions or suggestions, feel free to contact at aseem.saxena@bath.edu
 
-Hope you find this project interesting and inspiring! Let's work together to create a smarter and more sustainable future for food storage! 🚀🌍
+Hope you find this project interesting and inspiring! Let's work together to create a smarter and more sustainable future for food storage!
