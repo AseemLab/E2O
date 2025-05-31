@@ -9,7 +9,7 @@ Bachelors in Mechanical Engineering, Final year project
 
 ## Introduction
 
-Welcome to the Smart & Portable Thermoelectric Foodware (E2O) project! 🚀 This project explores the design and development of an innovative food container that utilizes the Peltier effect to provide both heating and cooling capabilities, ensuring your food and beverages are always at the perfect temperature. Imagine having a cup that keeps your coffee hot ☕ on a cold day or your smoothie refreshingly cool 🍹 during a workout.  That's the vision behind E2O!
+Thermoelectric Foodware (E2O). This project explores the design and development of an innovative food container that utilizes the Peltier effect to provide both heating and cooling capabilities, ensuring your food and beverages are always at the perfect temperature. Imagine having a cup that keeps your coffee hot or on a cold day or your smoothie refreshingly cool during a workout.  That's the vision behind E2O!
 
 This project was initially developed as a Bachelor of Technology project in Mechanical Engineering, aiming to tackle the inefficiencies of traditional food storage and reduce food wastage. We hope to inspire further development and exploration in sustainable and efficient food storage solutions.
 
